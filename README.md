@@ -29,7 +29,6 @@ The portfolio website includes:
 * 📄 **About Section** – Brief background and course context
 * 📁 **Activities / Outputs** – Course activities and exercises
 * 💻 **Projects** – Platform-based development projects
-* 📬 **Contact / Footer Section** – Basic contact and site information
 
 ---
 
@@ -75,7 +74,7 @@ The portfolio is built using the following technologies:
 
 ## 👤 Author
 
-**Leand**
+**Leandro Miguel Pabatao**
 BS Computer Science Student
 CSIT104 – Platform-Based Development
 
