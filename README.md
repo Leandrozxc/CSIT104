@@ -1,2 +1,1 @@
 CSIT104: Platform-Based Development Portfolio
-This repository contains a collection of projects developed for the CSIT104 Platform-Based Development course. This portfolio showcases foundational skills in Python programming and the application of computational thinking to solve a variety of problems.
